@@ -16,7 +16,7 @@
 
 ---
 
-### Lenguajes y Herramientas:
+### Lenguajes y Herramientas Aprendidas:
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
@@ -73,12 +73,12 @@
 
 ---
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api?username=jonathanmanobanda&show_icons=true&theme=dark&locale=es&hide_border=false" alt="estadísticas-de-github" />
+
+<img align="left" height="auto" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanmanobanda&theme=dark&mode=weekly&hide_border=false&locale=es" alt="racha-de-github" />
+
+---
+
+<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmanobanda&theme=dark&hide_border=false&locale=es" alt="lenguajes-más-usados" />
 
 
-
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
-
-
-
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalranjitofficial&theme=dark&hide_border=false" alt="profile-radme-generator" />
