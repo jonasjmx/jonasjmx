@@ -71,14 +71,3 @@
     </a>
 </p>
 
----
-
-<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api?username=jonathanmanobanda&show_icons=true&theme=dark&locale=es&hide_border=false" alt="estadísticas-de-github" />
-
-<img align="left" height="auto" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanmanobanda&theme=dark&mode=weekly&hide_border=false&locale=es" alt="racha-de-github" />
-
----
-
-<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmanobanda&theme=dark&hide_border=false&locale=es" alt="lenguajes-más-usados" />
-
-
