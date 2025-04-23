@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20👍Jonathan%20Manobanda👍&text2=🤓%20Especializándome%20en%20TI%20y%20Backend🤓&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20🫢👉Jonathan👈🫣&text2=🤓%20Especializándome%20en%20TI%20y%20Backend🤓&width=900&height=400)
 
 ---
 
