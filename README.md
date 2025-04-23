@@ -1,4 +1,5 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20🫢👉Jonathan👈🫣&text2=🤓%20Especializándome%20en%20TI%20y%20Backend🤓&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20🙌Hellow🙌%20My%20Name%20is...&width=1200&height=200)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20🫢👉Jonathan👈🫣&text2=🤓%20Specializing%20in%20IT%20Engineering%20and%20Backend🤓&width=1200&height=300)
 
 ---
 <picture>
@@ -18,17 +19,21 @@
 
 ---
 
-- 🌱 Actualmente estoy aprendiendo **Arquitecturas de Software y Sistemas de Bases de Datos**.
+### Specializing in IT Engineering and Backend.
 
-- 💬 Pregúntame sobre **C#, ¡es mi fuerte! 😁**.
+- 🌱 I’m currently learning Software Architectures and Database Systems.
 
-- 😂 Dato curioso: **En cierto lenguaje, 1 + '1' es igual a 2 😵‍💫**.
+- 💬 Ask me about C#—it's my forte! 😁.
 
-- 📫 Puedes contactarme en **jonasjmx@gmail.com**.
+- 😂 Fun fact: In a certain language, 1 + '1' equals 2 😵‍💫.
+
+- 📫 You can reach me at jonasjmx@gmail.com.
+
+###
 
 ---
 
-### Lenguajes y Herramientas Aprendidas:
+### Learned Languages and Tools:
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
