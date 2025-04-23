@@ -2,7 +2,11 @@
 
 ---
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=jonathanmanobanda&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador-de-visitas" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jonasjmx/count.svg?"  />
+</div>
+
+###
 
 ---
 
@@ -73,20 +77,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasjmx&show_icons=true&locale=en&layout=compact" alt="jonasjmx" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonasjmx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasjmx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jonasjmx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonasjmx&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonasjmx&show_icons=true&locale=en" alt="jonasjmx" /></p>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasjmx&" alt="jonasjmx" /></p>
-
----
+###
