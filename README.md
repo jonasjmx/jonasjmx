@@ -71,3 +71,19 @@
     </a>
 </p>
 
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasjmx&show_icons=true&locale=en&layout=compact" alt="jonasjmx" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonasjmx&show_icons=true&locale=en" alt="jonasjmx" /></p>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasjmx&" alt="jonasjmx" /></p>
