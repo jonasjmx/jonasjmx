@@ -1,6 +1,14 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20🫢👉Jonathan👈🫣&text2=🤓%20Especializándome%20en%20TI%20y%20Backend🤓&width=900&height=400)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/jonasjmx/count.svg?"  />
@@ -86,11 +94,3 @@
 
 ###
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph.svg">
-</picture>
-
-###
