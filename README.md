@@ -9,13 +9,6 @@
 </picture>
 
 ###
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jonasjmx/count.svg?"  />
-</div>
-
-###
 
 ---
 
