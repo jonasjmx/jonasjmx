@@ -2,7 +2,8 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20🫢👉Jonathan👈🫣&text2=🤓%20Specializing%20in%20IT%20Engineering%20and%20Backend🤓&width=1200&height=300)
 
 ---
-<img src="video para marco.gif" width="400" alt="Mi GIF animado">
+<img src="video%20para%20marco.gif" width="400" alt="Mi GIF animado">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph.svg">
