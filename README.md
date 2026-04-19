@@ -1,4 +1,3 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=%20🙌Hellow🙌&width=1200&height=200)
 <img src="https://raw.githubusercontent.com/jonasjmx/jonasjmx/main/videoperfil.gif" width="1000" alt="Mi GIF animado">
 
 ---
