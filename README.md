@@ -5,16 +5,20 @@
 # Hi there, I'm Jonathan! 👋
 ### 👨‍💻 IT Engineering Student | Fullstack Developer 
 
-Welcome to my GitHub profile! I am currently in my 7th semester of IT Engineering at Universidad Técnica de Ambato (UTA), with a strong passion for software architecture, backend development, and building robust, scalable applications. 
+I'm an IT Engineering student who genuinely enjoys tackling problems across the entire tech stack. For me, it's all about seeing the big picture—which means my experience goes all the way from designing solid software architectures down to configuring networks. 
 
 ## 🚀 About Me
 
-- 🌱 **Currently learning:** Software Architectures, Database Systems, and diving deeper into network administration protocols.
-- 🏗️ **What I'm working on:** Implementing scalable backends using **C# with Clean Architecture**, and developing automated web scraping tools using **Python & Playwright**. I also love experimenting with **Flutter** and Flet for mobile development!
-- 🎯 **2026 Goals:** Earning professional tech certifications to keep leveling up my career.
-- 💬 **Ask me about:** C# and .NET — it's my forte! 😁
-- ⚡ **Fun fact:** In JavaScript, `1 + '1'` equals `'11'`, but `1 - '1'` equals `0` 😵‍💫. (Also, when I'm not coding, you'll probably find me exploring sandbox and indie games like Terraria and Hollow Knight, or watching world-building anime!)
-- 📫 **How to reach me:** Drop me an email at [jonasjmx@gmail.com](mailto:jonasjmx@gmail.com)
+Here is a bit of what I do:
+
+- 🏗️ **Backend & Architecture:** This is where I feel most at home. I build scalable apps with **C# and .NET**, always leaning on **Clean Architecture** to keep the codebase neat and maintainable.
+- 🕷️ **Automation:** I love making repetitive tasks disappear by writing custom scripts and automation tools.
+- 🌐 **Networking:** I don't just write code; I also design and simulate network topologies. I have hands-on experience setting up routing protocols.
+- 🔒 **Cybersecurity:** A good system needs to be a safe system. I apply IT risk management methodologies to analyze and protect infrastructure assets.
+- 📱 **Mobile & UI:** I'm currently exploring the cross-platform world, bringing modern interfaces to life with **Flutter**.
+- 🤖 **AI Tooling:** I like to work smart, so I create custom AI assistants to help automate my daily workflows.
+
+📫 **Let's connect!** Feel free to reach out at [jonasjmx@gmail.com](mailto:jonasjmx@gmail.com).
 
 ---
 
