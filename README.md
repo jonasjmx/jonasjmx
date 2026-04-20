@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/jonasjmx/jonasjmx/main/videoperfil.gif" width="100%"/>
 </div>
 
-# Hi there, I'm Jonathan! 👋
-
 I'm an IT Engineering student who genuinely enjoys tackling problems across the entire tech stack. For me, it's all about seeing the big picture—which means my experience goes all the way from designing solid software architectures down to configuring networks. 
 
 ## 🚀 About Me
