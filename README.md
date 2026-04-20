@@ -3,7 +3,6 @@
 </div>
 
 # Hi there, I'm Jonathan! 👋
-### 👨‍💻 IT Engineering Student | Fullstack Developer 
 
 I'm an IT Engineering student who genuinely enjoys tackling problems across the entire tech stack. For me, it's all about seeing the big picture—which means my experience goes all the way from designing solid software architectures down to configuring networks. 
 
