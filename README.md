@@ -15,7 +15,7 @@ I'm an IT Engineering student who genuinely enjoys tackling problems across the 
 
 Here is a bit of what I do:
 
-- 🏗️ **Backend & Architecture:** This is where I feel most at home. I build scalable apps with **C# and .NET**, always leaning on **Clean Architecture** to keep the codebase neat and maintainable.
+- 🏗️ **Backend & Architecture:** This is where I feel most at home. I build scalable apps with **.NET, C#, Python, and Java**, always leaning on **Clean Architecture** to keep the codebase neat and maintainable.
 - 🕷️ **Automation:** I love making repetitive tasks disappear by writing custom scripts and automation tools.
 - 🌐 **Networking:** I don't just write code; I also design and simulate network topologies. I have hands-on experience setting up routing protocols.
 - 🔒 **Cybersecurity:** A good system needs to be a safe system. I apply IT risk management methodologies to analyze and protect infrastructure assets.
