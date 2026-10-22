@@ -1,55 +1,83 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jonasjmx/jonasjmx/main/videoperfil.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/jonasjmx/jonasjmx/main/videoperfil.gif" width="100%" alt="Profile banner"/>
 </div>
-
-I'm an IT Engineering student who genuinely enjoys tackling problems across the entire tech stack. For me, it's all about seeing the big picture—which means my experience goes all the way from designing solid software architectures down to configuring networks. 
-
-## 😎 Social
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-manobanda-575630158/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonasjmx@gmail.com) 
-
+<h2 align="center">Hi, I'm Jonathan 👋</h2>
+ 
+<p align="center">
+  Full-stack developer and IT Engineering student at <b>Universidad Técnica de Ambato</b> 🇪🇨
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-manobanda-575630158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jonasjmx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+I like problems that cut across the whole stack. Whether it's designing a clean backend, wiring up a frontend, or getting a Linux server and its network running properly, I enjoy understanding how every piece fits together.
+ 
 ---
-
-## 🚀 About Me
-
-Here is a bit of what I do:
-
-- 🏗️ **Backend & Architecture:** This is where I feel most at home. I build scalable apps with **.NET, C#, Python, and Java**, always leaning on **Clean Architecture** to keep the codebase neat and maintainable.
-- 🕷️ **Automation:** I love making repetitive tasks disappear by writing custom scripts and automation tools.
-- 🌐 **Networking:** I don't just write code; I also design and simulate network topologies. I have hands-on experience setting up routing protocols.
-- 🔒 **Cybersecurity:** A good system needs to be a safe system. I apply IT risk management methodologies to analyze and protect infrastructure assets.
-- 📱 **Mobile & UI:** I'm currently exploring the cross-platform world, bringing modern interfaces to life with **Flutter**.
-- 🤖 **AI Tooling:** I like to work smart, so I create custom AI assistants to help automate my daily workflows.
-
-📫 **Let's connect!** Feel free to reach out at [jonasjmx@gmail.com](mailto:jonasjmx@gmail.com).
-
+ 
+## 🚀 What I work on
+ 
+- 🏗️ **Backend & Architecture** — My comfort zone. I build APIs and services with **C#/.NET, Python (FastAPI)** and **Java**, using **Clean Architecture** to keep projects easy to maintain as they grow.
+- 💻 **Frontend & Mobile** — I build web interfaces with **React** and **Angular**, and cross-platform apps with **Flutter**.
+- 🐧 **Linux & Infrastructure** — I administer servers on **AlmaLinux, Rocky Linux and Fedora**, and run my own services with Docker.
+- 🌐 **Networking** — I design and simulate network topologies and configure routing protocols hands-on.
+- 🔒 **Security & IT Governance** — I apply IT risk management and frameworks like **ISO/IEC 27001/27002, COBIT 5** and **ITIL 4** to assess and protect infrastructure.
+- 🤖 **Automation & AI tooling** — If I have to do something twice, I'll probably write a script for it. Lately that includes building custom AI assistants for my daily workflow.
+📫 **Want to talk?** Reach me at [jonasjmx@gmail.com](mailto:jonasjmx@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jonathan-manobanda-575630158/).
+ 
 ---
-
-## 🛠️ Tech Stack & Tools
-
-| 🌐 Languages & Frameworks | 🗄️ Databases & Infrastructure |
-| :---: | :---: |
-| <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>C#</a> <br> <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>.NET</a> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>Python</a> <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>Java</a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>C++</a> <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>PHP</a> <br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>JavaScript</a> <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>Angular</a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>React</a> <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>HTML5</a> <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>Bootstrap</a> | <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>PostgreSQL</a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>MySQL</a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>MongoDB</a> <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>Oracle</a> <br> <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>Linux</a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>Git</a> |
-
+ 
+## 🛠️ Tech Stack
+ 
+**Languages**
+ 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+</p>
+**Frameworks & Libraries**
+ 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+</p>
+**Databases**
+ 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
+</p>
+**Infrastructure & Tools**
+ 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</p>
 ---
-
-## 📊 GitHub Analytics
-
+ 
+## 📊 GitHub Activity
+ 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/jonasjmx/jonasjmx/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
 <br>
-
-
-
-<br>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonasjmx&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonasjmx&radius=16&theme=react&area=true&order=5" height="300" alt="Contribution activity graph"/>
 </div>
