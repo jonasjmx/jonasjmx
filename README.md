@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-manobanda-575630158/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jonasjmx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:jonasjm.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 I like problems that cut across the whole stack. Whether it's designing a clean backend, wiring up a frontend, or getting a Linux server and its network running properly, I enjoy understanding how every piece fits together.
  
@@ -22,7 +22,7 @@ I like problems that cut across the whole stack. Whether it's designing a clean 
 - 🌐 **Networking** — I design and simulate network topologies and configure routing protocols hands-on.
 - 🔒 **Security & IT Governance** — I apply IT risk management and frameworks like **ISO/IEC 27001/27002, COBIT 5** and **ITIL 4** to assess and protect infrastructure.
 - 🤖 **Automation & AI tooling** — If I have to do something twice, I'll probably write a script for it. Lately that includes building custom AI assistants for my daily workflow.
-📫 **Want to talk?** Reach me at [jonasjmx@gmail.com](mailto:jonasjmx@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jonathan-manobanda-575630158/).
+📫 **Want to talk?** Reach me at [jonasjm.dev@gmail.com](mailto:jonasjm.dev@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jonathan-manobanda-575630158/).
  
 ---
  
@@ -39,6 +39,7 @@ I like problems that cut across the whole stack. Whether it's designing a clean 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
 </p>
+
 **Frameworks & Libraries**
  
 <p>
@@ -50,6 +51,7 @@ I like problems that cut across the whole stack. Whether it's designing a clean 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
 </p>
+
 **Databases**
  
 <p>
@@ -58,6 +60,7 @@ I like problems that cut across the whole stack. Whether it's designing a clean 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
 </p>
+
 **Infrastructure & Tools**
  
 <p>
@@ -66,6 +69,7 @@ I like problems that cut across the whole stack. Whether it's designing a clean 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </p>
+
 ---
  
 ## 📊 GitHub Activity
@@ -78,6 +82,3 @@ I like problems that cut across the whole stack. Whether it's designing a clean 
   </picture>
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonasjmx&radius=16&theme=react&area=true&order=5" height="300" alt="Contribution activity graph"/>
-</div>
